@@ -1,19 +1,15 @@
-# 🎈 Blank app template
+# 🧠 AI 수학 피드백 플랫폼
 
-A simple Streamlit app template for you to modify!
+이 앱은 고등학교 수학 문제를 풀고, AI가 해설과 피드백을 제공하는 **AI 기반 학습 플랫폼**입니다.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+## 🔍 주요 기능
+- 단원 및 난이도 선택
+- 문제 무작위 출제
+- 정답 입력 및 채점
+- AI 사고 흐름과 비교
+- 개념 영상 지원
+- 특수기호 입력 버튼 지원
 
-### How to run it on your own machine
-
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+## 🚀 실행 방법
+```bash
+streamlit run streamlit_app.py
